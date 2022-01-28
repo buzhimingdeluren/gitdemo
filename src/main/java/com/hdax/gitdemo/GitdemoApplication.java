@@ -5,11 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GitdemoApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(GitdemoApplication.class, args);
         System.out.println("hellogit");
-        System.out.println("你好呀 git");
+        System.out.println("你好呀 git  第一个版本");
     }
 
 }
