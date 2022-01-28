@@ -9,6 +9,7 @@ public class GitdemoApplication {
         SpringApplication.run(GitdemoApplication.class, args);
         System.out.println("hellogit");
         System.out.println("你好呀 git  第一个版本");
+        System.out.println("你好呀 git  第二个版本");
     }
 
 }
