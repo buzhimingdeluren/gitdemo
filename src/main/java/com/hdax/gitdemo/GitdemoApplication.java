@@ -14,6 +14,6 @@ public class GitdemoApplication {
         System.out.println("你好呀 git  第三个版本");
         System.out.println("master 分支合并");
         System.out.println("hot-fix 分支合11111并");
+        System.out.println("hot-fix 22222222");
     }
-
 }
