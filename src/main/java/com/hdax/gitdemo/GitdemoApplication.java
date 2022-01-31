@@ -15,5 +15,6 @@ public class GitdemoApplication {
         System.out.println("master 分支合并");
         System.out.println("hot-fix 分支合11111并");
         System.out.println("hot-fix 22222222");
+        System.out.println("pull test");
     }
 }
